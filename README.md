@@ -1,11 +1,12 @@
 
-<img align="center" src="assets/../resources/neon.gif" height="150" />
-
+<p align="center">
+  <img align="center" src="assets/../resources/neon.gif" height="300" />
+</p>
 <br>
 <br>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=darshn-n&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=darshn-n&icon=5&color=12" />
 </p>
 
 ## About me
@@ -16,8 +17,7 @@ I usually conduct events as HR. I love networking.
 Contributes packages and extensions to some frameworks.
 
 
-* GitHub Streaks >> Snapchat Streaks
-
+*GitHub Streaks >> Snapchat Streaks*
 ##
 
 <h3 align="left">Find me on</h3>
@@ -31,9 +31,12 @@ Contributes packages and extensions to some frameworks.
 
 ##
 
-<h2 align="center">My Projects and Publications</h2>
+<h2 align="center">My Projects and Publications</h2> <br>
+
 
 <h3 align="left">◾ Flutter Packages and Projects</h3>
+
+<hr>
 
 <a href="https://play.google.com/store/apps/details?id=com.opportunes.opportunes" target="_blank"><h4 align="left">1. Opportunes</h4></a>
 
@@ -41,41 +44,49 @@ Contributes packages and extensions to some frameworks.
 <img src="assets/../resources/opp3.jpeg" height="300em" />&nbsp;&nbsp;&nbsp;
 <img src="assets/../resources/opp4.jpeg" height="300em" /><br> <img src="assets/../resources/opp5.jpeg" height="300em" /> &nbsp;&nbsp;&nbsp;
 <img src="assets/../resources/opp6.jpeg" height="300em" /><br>
+<hr>
 
 <a href="https://play.google.com/store/apps/details?id=com.opportunes.opportunes" target="_blank"><h4 align="left">2. Admin Opportunes</h4></a>
 
 <img src="assets/../resources/adopp1.jpg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/adopp2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp; <br>
 <img src="assets/../resources/adopp2.gif" height="300em" />&nbsp;&nbsp;&nbsp;
 <img src="assets/../resources/adopp1.gif" height="300em" />
+<hr>
 
 
 <a href="https://pub.dev/packages/pretty_textfield" target="_blank"><h4 align="left">3. Pretty Text Field</h4></a>
 
 <img src="assets/../resources/pretty1.jpg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/pretty2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
 <img src="assets/../resources/pretty.gif" height="300em" />
+<hr>
 
 <a href="https://pub.dev/packages/network_image_search" target="_blank"><h4 align="left">4. Network Image Search</h4></a>
 
 <img src="assets/../resources/network1.jpg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/network2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
+<hr>
 
 <a href="https://pub.dev/packages/network_image_search" target="_blank"><h4 align="left">5. Tic Tac Toe</h4></a>
 
 <img src="assets/../resources/ttt1.jpg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/ttt2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
 <img src="assets/../resources/ttt.gif" height="300em" />
 
+<hr>
 
 <a href="https://github.com/darshn-n/bmi_calculator" target="_blank"><h4 align="left">6. BMI Calculator</h4></a>
 
 <img src="assets/../resources/bmi1.png" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/bmi2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
+<hr>
 
 
 <a href="https://github.com/darshn-n/vibey" target="_blank"><h4 align="left">7. Vibey (Under Development)</h4></a>
 
 <img src="assets/../resources/vibey.png" height="300em" />&nbsp;&nbsp;&nbsp;
+<hr>
 
 <a href="https://github.com/darshn-n/wallsmith" target="_blank"><h4 align="left">8. WallSmith</h4></a>
 
 <img src="assets/../resources/wallsmith.png" height="300em" />&nbsp;&nbsp;&nbsp;
+<hr>
 
 <h3 align="left">◾  Web Dev</h3>
 
@@ -85,6 +96,7 @@ Contributes packages and extensions to some frameworks.
 <img src="assets/../resources/oppweb1.png" height="300em" />&nbsp;&nbsp;&nbsp;
 
 <img src="assets/../resources/oppweb2.png" height="300em" />&nbsp;&nbsp;&nbsp;
+<hr>
 
 <a href="https://github.com/darshn-n/flip-shop" target="_blank"><h4 align="left">2. Flip-Shop</h4></a>
 
@@ -92,15 +104,18 @@ Contributes packages and extensions to some frameworks.
 <img src="assets/../resources/flip1.png" height="300em" />&nbsp;&nbsp;&nbsp;
 
 <img src="assets/../resources/flip2.png" height="300em" />&nbsp;&nbsp;&nbsp;
+<hr>
 
-<a href="https://github.com/darshn-n/ieee_index" target="_blank"><h4 align="left">2. IEEE-INDEX</h4></a>
+<a href="https://github.com/darshn-n/ieee_index" target="_blank"><h4 align="left">3. IEEE-INDEX</h4></a>
 
 
 <img src="assets/../resources/ieee1.png" height="300em" />&nbsp;&nbsp;&nbsp;
 
 <img src="assets/../resources/ieee2.png" height="300em" />&nbsp;&nbsp;&nbsp;
 <img src="assets/../resources/ieee3.png" height="300em" />&nbsp;&nbsp;&nbsp;
+<hr>
 
 
-<a href="https://github.com/darshn-n/Privacy-Policy" target="_blank"><h4 align="left">3. Privacy Policy Opportunes</h4></a>
+<a href="https://github.com/darshn-n/Privacy-Policy" target="_blank"><h4 align="left">4. Privacy Policy Opportunes</h4></a>
 <img src="assets/../resources/pp.png" height="300em" />&nbsp;&nbsp;&nbsp;
+<hr>
