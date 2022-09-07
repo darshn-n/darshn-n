@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="assets/../resources/neon.gif" height="300" />
+  <img align="center" src="assets/../resources/neon.gif" height="400" />
 </p>
 <br>
 <br>
