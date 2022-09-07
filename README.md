@@ -4,9 +4,14 @@
 <br>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=darshn-n&icon=5&color=12" />
+</p>   -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/darshn-n/count.svg" />
 </p>
+
 
 ## About me
 
@@ -73,7 +78,6 @@ _GitHub Streaks >> Snapchat Streaks_
 <a href="https://github.com/darshn-n/ieee_index" target="_blank"><h4 align="left">6. Notex</h4></a>
 
 <img src="assets/../resources/demo2.gif" height="300em" />&nbsp;&nbsp;&nbsp;
-
 <img src="assets/../resources/demo1.gif" height="300em" />&nbsp;&nbsp;&nbsp;
 <img src="assets/../resources/ss1.jpg" height="300em" />&nbsp;&nbsp;&nbsp;
 
