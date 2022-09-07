@@ -4,11 +4,9 @@
 <br>
 <br>
 
-<!-- <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=darshn-n&icon=5&color=12" />
-</p>   -->
+
 <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/darshn-n/count.svg" />
 </p>
 
