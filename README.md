@@ -13,9 +13,9 @@
 
 ## About me
 
-I'm [Darshan](https://app.flowcv.com/resume-feedback/OeMxzvQEp0lNzfTmH-izZ) and I volunteer regularly and passionate about technology and Telecommunications domain.
+I'm [Darshan](https://app.flowcv.com/resume-feedback/OeMxzvQEp0lNzfTmH-izZ) Flutter and Web Dev. I regularly volunteer and passionate about Technology, Development and Telecommunications domain.
 Currently I'm the COO & CTO of [_Opportunes_](https://play.google.com/store/apps/details?id=com.opportunes.opportunes), A Digital solutions firm.
-I usually conduct events as HR. I love networking.
+I usually conduct events as HR and network alot.
 Contributes packages and extensions to some frameworks.
 
 _GitHub Streaks >> Snapchat Streaks_
