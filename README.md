@@ -39,9 +39,6 @@ _GitHub Streaks >> Snapchat Streaks_
 
 ##
 
-<h3 align="left">◾ Flutter Publications and Projects</h3>
-
-##
 
 <a href="https://play.google.com/store/apps/details?id=com.opportunes.opportunes" target="_blank"><h4 align="left">1. Opportunes</h4></a>
 
@@ -103,7 +100,6 @@ _GitHub Streaks >> Snapchat Streaks_
 
 ##
 
-<h3 align="left">◾  Web Dev</h3>
 
 <a href="https://github.com/darshn-n/Opportunes-Website" target="_blank"><h4 align="left">1. Opportunes Website (Under Development)</h4></a>
 
