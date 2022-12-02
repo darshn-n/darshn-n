@@ -34,11 +34,10 @@ _GitHub Streaks >> Snapchat Streaks_
 
 ##
 
-<h2 align="center">My Projects and Publications</h2>
+<h2 align="center">Some of my Projects and Publications</h2>
 
 ##
 
-<h3 align="left">◾ Flutter Publications and Projects</h3>
 
 ##
 
