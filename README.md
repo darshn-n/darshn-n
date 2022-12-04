@@ -41,13 +41,9 @@ _GitHub Streaks >> Snapchat Streaks_
 
 ##
 
-<a href="https://play.google.com/store/apps/details?id=com.opportunes.opportunes" target="_blank"><h4 align="left">1. Opportunes</h4></a>
 
-<img src="assets/../resources/opp1.jpeg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/opp2.jpeg" height="300em" /> &nbsp;&nbsp;&nbsp; <br>
+<img src="assets/../resources/opp1.jpeg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/opp2.jpeg" height="300em" /> &nbsp;&nbsp;&nbsp;
 
-##
-
-<a href="https://play.google.com/store/apps/details?id=com.opportunes.opportunes" target="_blank"><h4 align="left">2. Admin Opportunes</h4></a>
 
 <img src="assets/../resources/adopp1.jpg" height="300em" />&nbsp;&nbsp;&nbsp;
 <img src="assets/../resources/adopp2.gif" height="300em" />&nbsp;&nbsp;&nbsp;
@@ -55,27 +51,23 @@ _GitHub Streaks >> Snapchat Streaks_
 
 ##
 
-<a href="https://pub.dev/packages/pretty_textfield" target="_blank"><h4 align="left">3. Pretty Text Field</h4></a>
+<a href="https://pub.dev/packages/pretty_textfield" target="_blank"><h4 align="left">Pretty Text Field</h4></a>
 
 <img src="assets/../resources/pretty1.jpg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/pretty2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
 <img src="assets/../resources/pretty.gif" height="300em" />
 
 ##
 
-<a href="https://pub.dev/packages/network_image_search" target="_blank"><h4 align="left">4. Network Image Search</h4></a>
+<a href="https://pub.dev/packages/network_image_search" target="_blank"><h4 align="left">Network Image Search</h4></a>
 
 <img src="assets/../resources/network1.jpg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/network2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
 
-##
-
-<a href="https://pub.dev/packages/network_image_search" target="_blank"><h4 align="left">5. Tic Tac Toe</h4></a>
 
 <img src="assets/../resources/ttt1.jpg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/ttt2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
 <img src="assets/../resources/ttt.gif" height="300em" />
 
-##
 
-<a href="https://github.com/darshn-n/ieee_index" target="_blank"><h4 align="left">6. Notex</h4></a>
+<a href="https://github.com/darshn-n/ieee_index" target="_blank"><h4 align="left">Notex</h4></a>
 
 <img src="assets/../resources/demo2.gif" height="300em" />&nbsp;&nbsp;&nbsp;
 <img src="assets/../resources/demo1.gif" height="300em" />&nbsp;&nbsp;&nbsp;
@@ -83,35 +75,10 @@ _GitHub Streaks >> Snapchat Streaks_
 
 ##
 
-<a href="https://github.com/darshn-n/bmi_calculator" target="_blank"><h4 align="left">7. BMI Calculator</h4></a>
-
-<img src="assets/../resources/bmi1.png" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/bmi2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
-
-##
-
-<a href="https://github.com/darshn-n/vibey" target="_blank"><h4 align="left">8. Vibey (Under Development)</h4></a>
-
-<img src="assets/../resources/vibey.png" height="300em" />&nbsp;&nbsp;&nbsp;
-
-##
-
-<a href="https://github.com/darshn-n/wallsmith" target="_blank"><h4 align="left">9. WallSmith</h4></a>
-
-<img src="assets/../resources/wallsmith.png" height="300em" />&nbsp;&nbsp;&nbsp;
-
-##
-
 <h3 align="left">◾  Web Dev</h3>
 
-<a href="https://github.com/darshn-n/Opportunes-Website" target="_blank"><h4 align="left">1. Opportunes Website (Under Development)</h4></a>
 
-<img src="assets/../resources/oppweb1.png" height="300em" />&nbsp;&nbsp;&nbsp;
-
-<img src="assets/../resources/oppweb2.png" height="300em" />&nbsp;&nbsp;&nbsp;
-
-##
-
-<a href="https://github.com/darshn-n/flip-shop" target="_blank"><h4 align="left">2. Flip-Shop</h4></a>
+<a href="https://github.com/darshn-n/flip-shop" target="_blank"><h4 align="left">Flip-Shop</h4></a>
 
 <img src="assets/../resources/flip1.png" height="300em" />&nbsp;&nbsp;&nbsp;
 
@@ -119,7 +86,7 @@ _GitHub Streaks >> Snapchat Streaks_
 
 ##
 
-<a href="https://github.com/darshn-n/ieee_index" target="_blank"><h4 align="left">3. IEEE-INDEX</h4></a>
+<a href="https://github.com/darshn-n/ieee_index" target="_blank"><h4 align="left">IEEE-INDEX</h4></a>
 
 <img src="assets/../resources/ieee1.png" height="300em" />&nbsp;&nbsp;&nbsp;
 
