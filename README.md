@@ -42,6 +42,8 @@ _GitHub Streaks >> Snapchat Streaks_
 ##
 
 
+<h4 align="left">Opportunes</h4>
+
 <img src="assets/../resources/opp1.jpeg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/opp2.jpeg" height="300em" /> &nbsp;&nbsp;&nbsp;
 
 
