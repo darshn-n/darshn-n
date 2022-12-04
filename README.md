@@ -77,7 +77,7 @@ _GitHub Streaks >> Snapchat Streaks_
 
 ##
 
-<h3 align="left">◾  Web Dev</h3>
+<h3 align="center">◾  Web Dev</h3>
 
 
 <a href="https://github.com/darshn-n/flip-shop" target="_blank"><h4 align="left">Flip-Shop</h4></a>
