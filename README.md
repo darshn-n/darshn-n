@@ -1,98 +1,95 @@
 <p align="center">
-  <img align="center" src="assets/../resources/neon.gif" height="300" />
-</p>
-<br>
-<br>
-
-
-<p align="center"> 
-  Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/darshn-n/count.svg" />
+  <svg width="720" height="140" viewBox="0 0 720 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="720" height="140" rx="18" fill="#0D1117"/>
+    <path d="M0 105C110 72 170 126 280 91C390 56 480 117 720 58" stroke="#30363D" stroke-width="2"/>
+    <path d="M0 116C120 88 180 132 300 101C420 70 520 120 720 78" stroke="#21262D" stroke-width="2"/>
+    <text x="360" y="62" text-anchor="middle" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Darshan</text>
+    <text x="360" y="91" text-anchor="middle" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="14">Flutter &amp; Web Developer · Engineer · Open-source tinkerer</text>
+  </svg>
 </p>
 
-
-## About me
-
-I'm [Darshan](https://darshn-n.github.io) Flutter and Web Dev.
-Contributes packages and extensions to some frameworks.
-
-_GitHub Streaks >> Snapchat Streaks_
-
-##
-
-<h3 align="left">Socials</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/darshn-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshn-n" height="30" width="40" /></a>
-<a href="https://medium.com/@darshan-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@darshan-n" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://darshn-n.github.io">Website</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/darshn-n">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://medium.com/@darshan-n">Medium</a>
 </p>
 
-##
+---
 
-<h3 align="left">Skills and Tools</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> </p>
+## About
 
-##
+I'm **Darshan**, an engineer focused on building mobile and web software.
 
-<h2 align="center">Some of my Projects and Publications</h2>
+I primarily work with **Flutter and Dart**, while also spending plenty of time around web technologies, backend services, developer tooling, and the occasional language that makes me wonder why I started.
 
-##
+I enjoy turning ideas into software that is:
 
+```text
+simple      →      useful      →      reliable      →      maintainable
+```
 
-##
+I also contribute packages and extensions when I find something that can be made a little better.
 
+## What I work with
 
-<h4 align="left">Opportunes</h4>
+<table>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>Flutter · Dart · Firebase</td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td>HTML · CSS · JavaScript · React · Node.js</td>
+  </tr>
+  <tr>
+    <td><b>Programming</b></td>
+    <td>C · C++ · Python</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git · GitHub · APIs · Backend services · Developer tooling</td>
+  </tr>
+</table>
 
-<img src="assets/../resources/opp1.jpeg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/opp2.jpeg" height="300em" /> &nbsp;&nbsp;&nbsp;
+## How I like to build
 
+I prefer software that doesn't make people think too hard about how to use it.
 
-<img src="assets/../resources/adopp1.jpg" height="300em" />&nbsp;&nbsp;&nbsp;
-<img src="assets/../resources/adopp2.gif" height="300em" />&nbsp;&nbsp;&nbsp;
-<img src="assets/../resources/adopp1.gif" height="300em" />
+That usually means:
 
-##
+- **Clarity over cleverness**
+- **Simple architecture over unnecessary complexity**
+- **Good UX over decoration**
+- **Reusable solutions over copy-paste**
+- **Understanding the problem before writing the solution**
 
-<a href="https://pub.dev/packages/pretty_textfield" target="_blank"><h4 align="left">Pretty Text Field</h4></a>
+And when something breaks, I prefer finding out *why* before reaching for the traditional engineering solution:
 
-<img src="assets/../resources/pretty1.jpg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/pretty2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
-<img src="assets/../resources/pretty.gif" height="300em" />
+```text
+delete → reinstall → restart → stare at screen → somehow fixed
+```
 
-##
+## Currently
 
-<a href="https://pub.dev/packages/network_image_search" target="_blank"><h4 align="left">Network Image Search</h4></a>
+Learning, experimenting, building, breaking, fixing, and repeating.
 
-<img src="assets/../resources/network1.jpg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/network2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
+There is usually something new to understand — a framework, a design pattern, a tool, or some wonderfully mysterious error message.
 
+## A small philosophy
 
-<img src="assets/../resources/ttt1.jpg" height="300em" />&nbsp;&nbsp;&nbsp; <img src="assets/../resources/ttt2.jpg" height="300em" /> &nbsp;&nbsp;&nbsp;
-<img src="assets/../resources/ttt.gif" height="300em" />
+> Build things that are useful.  
+> Keep them simple.  
+> Make them pleasant to use.  
+> Leave the code better than you found it.
 
+And, naturally:
 
-<a href="https://github.com/darshn-n/ieee_index" target="_blank"><h4 align="left">Notex</h4></a>
+**GitHub Streaks >> Snapchat Streaks**
 
-<img src="assets/../resources/demo2.gif" height="300em" />&nbsp;&nbsp;&nbsp;
-<img src="assets/../resources/demo1.gif" height="300em" />&nbsp;&nbsp;&nbsp;
-<img src="assets/../resources/ss1.jpg" height="300em" />&nbsp;&nbsp;&nbsp;
+---
 
-##
-
-<h3 align="center">◾  Web Dev</h3>
-
-
-<a href="https://github.com/darshn-n/flip-shop" target="_blank"><h4 align="left">Flip-Shop</h4></a>
-
-<img src="assets/../resources/flip1.png" height="300em" />&nbsp;&nbsp;&nbsp;
-
-<img src="assets/../resources/flip2.png" height="300em" />&nbsp;&nbsp;&nbsp;
-
-##
-
-<a href="https://github.com/darshn-n/ieee_index" target="_blank"><h4 align="left">IEEE-INDEX</h4></a>
-
-<img src="assets/../resources/ieee1.png" height="300em" />&nbsp;&nbsp;&nbsp;
-
-<img src="assets/../resources/ieee2.png" height="300em" />&nbsp;&nbsp;&nbsp;
-<img src="assets/../resources/ieee3.png" height="300em" />&nbsp;&nbsp;&nbsp;
-
-##
+<p align="center">
+  <sub>Still building. Still learning. Still occasionally asking why it works on my machine.</sub>
+</p>
